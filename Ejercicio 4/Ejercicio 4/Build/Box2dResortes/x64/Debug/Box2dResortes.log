@@ -1,0 +1,7 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+  SFMLRenderer.cpp
+C:\Users\pedro\Desktop\Ejercicio 4\Ejercicio 4\Src\SFMLRenderer.cpp(121,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Desktop\Ejercicio 4\Ejercicio 4\Src\SFMLRenderer.cpp(121,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Box2dResortes.vcxproj -> C:\Users\pedro\Desktop\Ejercicio 4\Ejercicio 4\Bin\Debug\Box2dResortes.exe

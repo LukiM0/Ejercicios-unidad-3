@@ -1,0 +1,17 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\Game.cpp(73,116): warning C4244: 'argumento': conversión de 'const float' a 'T'; posible pérdida de datos
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\Game.cpp(73,116): warning C4244:         with
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\Game.cpp(73,116): warning C4244:         [
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\Game.cpp(73,116): warning C4244:             T=int
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\Game.cpp(73,116): warning C4244:         ]
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\Game.cpp(73,83): warning C4244: 'argumento': conversión de 'const float' a 'T'; posible pérdida de datos
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\Game.cpp(73,83): warning C4244:         with
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\Game.cpp(73,83): warning C4244:         [
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\Game.cpp(73,83): warning C4244:             T=int
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\Game.cpp(73,83): warning C4244:         ]
+  SFMLRenderer.cpp
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\SFMLRenderer.cpp(121,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Src\SFMLRenderer.cpp(121,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Box2dResortes.vcxproj -> C:\Users\pedro\Desktop\Unidad 3\Ejercicio 2\Resortes\Bin\Debug\Box2dResortes.exe
